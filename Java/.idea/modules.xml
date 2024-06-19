@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayQuestions/ArrayQuestions.iml" filepath="$PROJECT_DIR$/ArrayQuestions/ArrayQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_String/Reverse_String.iml" filepath="$PROJECT_DIR$/Reverse_String/Reverse_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Score of a string/Score of a string.iml" filepath="$PROJECT_DIR$/Score of a string/Score of a string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid_Parenthasis_stacks/Valid_Parenthasis_stacks.iml" filepath="$PROJECT_DIR$/Valid_Parenthasis_stacks/Valid_Parenthasis_stacks.iml" />
+    </modules>
+  </component>
+</project>
